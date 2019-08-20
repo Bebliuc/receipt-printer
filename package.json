@@ -20,7 +20,7 @@
   "dependencies": {
     "net": "^1.0.2",
     "pngjs": "^3.2.0",
-    "printer": "^0.2.2",
+    "printer": "git+https://github.com/DatabaseWorks/node-printer.git",
     "unorm": "^1.4.1",
     "write-file-queue": "0.0.1"
   }
